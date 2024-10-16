@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @LagMager
-- 👀 I’m interested in Game Development, Software Engineering and Astronomy
-- 🌱 I’m currently learning Godot, Lua and Python, looking forward to also learn C++ and JavaScript
+- 👀 I’m interested in Game Development, Software and Systems Engineering and Astronomy.
+- 🌱 I’m currently learning Java, looking forward to learn JavaScript.
+- 💻 I have learned C++, Python, Lua and GDScript. Although I'm more like a Jack of all trades in all of them.
 
-Outside of these tech related things, I like to compose music, play chess and reead books.
+Beyond tech, I like to compose music, play chess and read books. 
+
+Some of the projects I'm working on right now are:
+- Recoil Roboto (2D Bullet Hell Platformer with Metroidvania elements)
+- Creating a NES emulator. 
 
 I have some serious trouble getting started wit things but once I work on them I don't stop until its finished 🔥
 
